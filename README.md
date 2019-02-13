@@ -156,8 +156,11 @@ Geoffrey Hinton
 
 参考笔记：
 https://blog.csdn.net/red_stone1/article/details/80207815
+
 https://zhuanlan.zhihu.com/p/35333489
+
 https://zhuanlan.zhihu.com/p/47108882
+
 https://github.com/mbadry1/DeepLearning.ai-Summary/blob/master/1-%20Neural%20Networks%20and%20Deep%20Learning/Readme.md
 
 课程作业：https://blog.csdn.net/u013733326/article/details/79827273
